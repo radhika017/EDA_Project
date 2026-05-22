@@ -122,6 +122,27 @@ This project includes:
 
 ---
 
+## 📷 Project Screenshots
+
+### 🔥 Correlation Heatmap
+
+![Heatmap](images/heatmap.png)
+
+---
+
+### 📊 Histogram Analysis
+
+![Histogram](images/histogram.png)
+
+---
+
+### 📦 Boxplot Visualization
+
+![Boxplot](images/boxplot.png)
+
+---
+
+
 ## 📚 Learning Outcomes
 
 Through this project, I learned:
