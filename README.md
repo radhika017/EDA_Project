@@ -126,19 +126,19 @@ This project includes:
 
 ### 🔥 Correlation Heatmap
 
-![Heatmap](images/heatmap.png)
+<img width="1920" height="1080" alt="Screenshot 2026-05-22 154516" src="https://github.com/user-attachments/assets/59abf277-07bb-457f-82bc-8e09c1f370ec" />
 
 ---
 
 ### 📊 Histogram Analysis
 
-![Histogram](images/histogram.png)
+<img width="1920" height="1080" alt="Screenshot 2026-05-22 154532" src="https://github.com/user-attachments/assets/39d02458-529a-4c5e-b9be-ff529dcdb9c5" />
 
 ---
 
 ### 📦 Boxplot Visualization
 
-![Boxplot](images/boxplot.png)
+<img width="1920" height="1080" alt="Screenshot 2026-05-22 154546" src="https://github.com/user-attachments/assets/6198ab42-73f6-4118-9fce-0f00e236ed56" />
 
 ---
 
